@@ -1,0 +1,22 @@
+{
+    "name": "Pi Supply bit:buggy Project 06 - bit:buggy",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v2.1.8",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
